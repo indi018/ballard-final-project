@@ -1,0 +1,63 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-image: url(/img/background.png);
+}
+
+header {
+  padding: 2rem 0;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 48px;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 10px 0;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  padding: 10px 20px;
+  background-color: #ddd;
+  border-radius: 5px;
+  color: black;
+}
+
+.video {
+  margin: 30px 0;
+}
+
+.bungee-tint-regular {
+  font-family: "Bungee Tint", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+footer {
+  text-align: center;
+  font-size: xx-large;
+  border-style: none;
+}
+footer p {
+  font-size: small;
+}
+
+p {
+  color: white;
+}
+
+section {
+  color: white;
+}
+section p {
+  font-size: x-large;
+}
